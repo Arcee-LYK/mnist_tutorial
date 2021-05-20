@@ -22,3 +22,15 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# 使用框架
+pytorch
+
+# 训练结果
+|   | training accuracy| testing accuracy |
+|:--| :----------------|:-----------------|
+|Q1 | 
+|Q2 |
+|Q3 |
+|Q4 |
+|Q5 |
